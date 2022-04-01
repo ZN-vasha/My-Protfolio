@@ -231,7 +231,7 @@ img {
   overflow: hidden;
 }
 .about__img img {
-  width: 80px;
+  width: 120px;
 }
 .about__subtitle {
   font-size: var(--h2-font-size);
@@ -542,7 +542,7 @@ button.btn.contact.pointer {
     height: 200px;
   }
   .about__img img {
-    width: 130px;
+    width: 220px;
   }
 
   .skills__container {
